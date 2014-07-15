@@ -1,0 +1,19 @@
+List of mods to add to the pack when available:
+
+PowerCrystals' Mods
+---
+PowerCrystals Core
+Nether Ores
+Flat Bedrock
+MineFactory Reloaded
+
+iChun's Mods
+---
+PortalGun
+
+
+MystCraft
+
+ComputerCraft
+
+Dimensional Doors
